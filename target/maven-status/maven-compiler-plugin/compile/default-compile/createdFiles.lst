@@ -1,0 +1,6 @@
+com\Pruebas\CRUD\Service\UsuarioService.class
+com\Pruebas\CRUD\CrudApplication.class
+com\Pruebas\CRUD\model\Usuario.class
+com\Pruebas\CRUD\controller\Controller.class
+com\Pruebas\CRUD\repository\UsuarioRepository.class
+com\Pruebas\CRUD\Service\IUsuarioService.class
