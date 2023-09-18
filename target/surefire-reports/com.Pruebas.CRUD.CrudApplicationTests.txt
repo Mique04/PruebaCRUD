@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.Pruebas.CRUD.CrudApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.378 s - in com.Pruebas.CRUD.CrudApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.873 s - in com.Pruebas.CRUD.CrudApplicationTests
